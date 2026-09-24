@@ -18,7 +18,7 @@ Open-source or professional projects involving Java, React.js, or web applicatio
 
 📫 How to Reach Me:
 Connect on LinkedIn
- or email me at sharmakarnan16@gmail.com
+ or email me at sharmak.developer@gmail.com
 
 ⚡ Fun Fact:
 I’m a three-time district-level sprint champion, and the same focus and determination drive my software development journey!
